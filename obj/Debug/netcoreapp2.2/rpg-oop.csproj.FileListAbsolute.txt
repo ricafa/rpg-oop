@@ -1,0 +1,11 @@
+C:\Users\ricardo-favaro\projetos\dotnet\rpg-oop\bin\Debug\netcoreapp2.2\rpg-oop.deps.json
+C:\Users\ricardo-favaro\projetos\dotnet\rpg-oop\bin\Debug\netcoreapp2.2\rpg-oop.runtimeconfig.json
+C:\Users\ricardo-favaro\projetos\dotnet\rpg-oop\bin\Debug\netcoreapp2.2\rpg-oop.runtimeconfig.dev.json
+C:\Users\ricardo-favaro\projetos\dotnet\rpg-oop\bin\Debug\netcoreapp2.2\rpg-oop.dll
+C:\Users\ricardo-favaro\projetos\dotnet\rpg-oop\bin\Debug\netcoreapp2.2\rpg-oop.pdb
+C:\Users\ricardo-favaro\projetos\dotnet\rpg-oop\obj\Debug\netcoreapp2.2\rpg-oop.csprojAssemblyReference.cache
+C:\Users\ricardo-favaro\projetos\dotnet\rpg-oop\obj\Debug\netcoreapp2.2\rpg-oop.csproj.CoreCompileInputs.cache
+C:\Users\ricardo-favaro\projetos\dotnet\rpg-oop\obj\Debug\netcoreapp2.2\rpg-oop.AssemblyInfoInputs.cache
+C:\Users\ricardo-favaro\projetos\dotnet\rpg-oop\obj\Debug\netcoreapp2.2\rpg-oop.AssemblyInfo.cs
+C:\Users\ricardo-favaro\projetos\dotnet\rpg-oop\obj\Debug\netcoreapp2.2\rpg-oop.dll
+C:\Users\ricardo-favaro\projetos\dotnet\rpg-oop\obj\Debug\netcoreapp2.2\rpg-oop.pdb
