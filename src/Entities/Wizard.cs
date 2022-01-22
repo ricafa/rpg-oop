@@ -11,8 +11,15 @@ namespace rpg_oop.src.Entities
             this.level = level;
             this.heroType = heroType;
         }
-        public override string attack(){
-            return this.name + " atacou com magia.";
+        public string attack(int bonus){
+            if(bonus>6)
+            {
+                return this.name + " lançou magia super efetiva com bonus de "+bonus;
+            }
+            else
+            {
+                return this.name + " lançou magia com força fraca de "+bonus;
+            }
         }
     }
 }

@@ -1,6 +1,6 @@
 namespace rpg_oop.src.Entities
 {
-    public class Hero
+    public abstract class Hero
     {
         public string name;
         public int level;
