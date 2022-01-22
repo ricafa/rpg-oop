@@ -1,0 +1,14 @@
+C:\Users\Ricardo\projetos\dotnet\rpg-oop\bin\Debug\netcoreapp3.1\rpg-oop.exe
+C:\Users\Ricardo\projetos\dotnet\rpg-oop\bin\Debug\netcoreapp3.1\rpg-oop.deps.json
+C:\Users\Ricardo\projetos\dotnet\rpg-oop\bin\Debug\netcoreapp3.1\rpg-oop.runtimeconfig.json
+C:\Users\Ricardo\projetos\dotnet\rpg-oop\bin\Debug\netcoreapp3.1\rpg-oop.runtimeconfig.dev.json
+C:\Users\Ricardo\projetos\dotnet\rpg-oop\bin\Debug\netcoreapp3.1\rpg-oop.dll
+C:\Users\Ricardo\projetos\dotnet\rpg-oop\bin\Debug\netcoreapp3.1\rpg-oop.pdb
+C:\Users\Ricardo\projetos\dotnet\rpg-oop\obj\Debug\netcoreapp3.1\rpg-oop.csproj.AssemblyReference.cache
+C:\Users\Ricardo\projetos\dotnet\rpg-oop\obj\Debug\netcoreapp3.1\rpg-oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricardo\projetos\dotnet\rpg-oop\obj\Debug\netcoreapp3.1\rpg-oop.AssemblyInfoInputs.cache
+C:\Users\Ricardo\projetos\dotnet\rpg-oop\obj\Debug\netcoreapp3.1\rpg-oop.AssemblyInfo.cs
+C:\Users\Ricardo\projetos\dotnet\rpg-oop\obj\Debug\netcoreapp3.1\rpg-oop.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\projetos\dotnet\rpg-oop\obj\Debug\netcoreapp3.1\rpg-oop.dll
+C:\Users\Ricardo\projetos\dotnet\rpg-oop\obj\Debug\netcoreapp3.1\rpg-oop.pdb
+C:\Users\Ricardo\projetos\dotnet\rpg-oop\obj\Debug\netcoreapp3.1\rpg-oop.genruntimeconfig.cache

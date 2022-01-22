@@ -9,3 +9,16 @@ C:\Users\ricardo-favaro\projetos\dotnet\rpg-oop\obj\Debug\netcoreapp2.2\rpg-oop.
 C:\Users\ricardo-favaro\projetos\dotnet\rpg-oop\obj\Debug\netcoreapp2.2\rpg-oop.AssemblyInfo.cs
 C:\Users\ricardo-favaro\projetos\dotnet\rpg-oop\obj\Debug\netcoreapp2.2\rpg-oop.dll
 C:\Users\ricardo-favaro\projetos\dotnet\rpg-oop\obj\Debug\netcoreapp2.2\rpg-oop.pdb
+C:\Users\Ricardo\projetos\dotnet\rpg-oop\bin\Debug\netcoreapp2.2\rpg-oop.deps.json
+C:\Users\Ricardo\projetos\dotnet\rpg-oop\bin\Debug\netcoreapp2.2\rpg-oop.runtimeconfig.json
+C:\Users\Ricardo\projetos\dotnet\rpg-oop\bin\Debug\netcoreapp2.2\rpg-oop.runtimeconfig.dev.json
+C:\Users\Ricardo\projetos\dotnet\rpg-oop\bin\Debug\netcoreapp2.2\rpg-oop.dll
+C:\Users\Ricardo\projetos\dotnet\rpg-oop\bin\Debug\netcoreapp2.2\rpg-oop.pdb
+C:\Users\Ricardo\projetos\dotnet\rpg-oop\obj\Debug\netcoreapp2.2\rpg-oop.csproj.AssemblyReference.cache
+C:\Users\Ricardo\projetos\dotnet\rpg-oop\obj\Debug\netcoreapp2.2\rpg-oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricardo\projetos\dotnet\rpg-oop\obj\Debug\netcoreapp2.2\rpg-oop.AssemblyInfoInputs.cache
+C:\Users\Ricardo\projetos\dotnet\rpg-oop\obj\Debug\netcoreapp2.2\rpg-oop.AssemblyInfo.cs
+C:\Users\Ricardo\projetos\dotnet\rpg-oop\obj\Debug\netcoreapp2.2\rpg-oop.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\projetos\dotnet\rpg-oop\obj\Debug\netcoreapp2.2\rpg-oop.dll
+C:\Users\Ricardo\projetos\dotnet\rpg-oop\obj\Debug\netcoreapp2.2\rpg-oop.pdb
+C:\Users\Ricardo\projetos\dotnet\rpg-oop\obj\Debug\netcoreapp2.2\rpg-oop.genruntimeconfig.cache

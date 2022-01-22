@@ -1,4 +1,5 @@
 ﻿using System;
+using rpg_oop.src.Entities;
 
 namespace rpg_oop
 {
@@ -6,8 +7,14 @@ namespace rpg_oop
     {
         static void Main(string[] args)
         {
-            Arus arus = new Arus("Arus", 1, "Knight");
+            Hero arus = new Hero("Arus", 23, "Knight");
+            Wizard mago = new Wizard("Jennica", 23, "White Wizard");
             Console.WriteLine(arus);
+            Console.WriteLine(mago);
+            Console.WriteLine("");
+            Console.WriteLine(arus.attack());
+            Console.WriteLine("");
+            Console.WriteLine(mago.attack());
         }
     }
 }
