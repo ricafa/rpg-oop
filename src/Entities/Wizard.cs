@@ -18,7 +18,7 @@ namespace rpg_oop.src.Entities
             }
             else
             {
-                return this.name + " lançou magia com força fraca de "+bonus;
+                return this.name + " lançou magia com força fraca com bonus de "+bonus;
             }
         }
     }
